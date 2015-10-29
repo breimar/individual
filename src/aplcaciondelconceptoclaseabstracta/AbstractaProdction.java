@@ -1,7 +1,7 @@
 package aplcaciondelconceptoclaseabstracta;
 
 
-abstract class AbstractaProducto {
+abstract class AbstractaProdction {
     double precio;
     double cantidad; 
 }

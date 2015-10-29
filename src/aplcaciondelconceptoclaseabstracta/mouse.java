@@ -1,7 +1,7 @@
 package aplcaciondelconceptoclaseabstracta;
 
 
-public class Monitor extends AbstractaProducto{
+public class mouse extends AbstractaProdction{
 
     String nombre;
     String fabricante;

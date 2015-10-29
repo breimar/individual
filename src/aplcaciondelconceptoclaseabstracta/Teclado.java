@@ -1,7 +1,7 @@
 package aplcaciondelconceptoclaseabstracta;
 
 
-public class Teclado extends AbstractaProducto{
+public class Teclado extends AbstractaProdction{
 
     String nombre;
     String fabricante;
